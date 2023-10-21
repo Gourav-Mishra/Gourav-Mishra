@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/42600031?v=4" alt="Profile Image" width="200">
 </p>
 
-Hello there! I'm Gourav Mishra, an AI engineer, and data science enthusiast. I'm passionate about technology, open-source, and learning new things. Here, you'll find a variety of projects and repositories that reflect my interests and expertise. Feel free to explore, contribute, or get in touch with me for collaborations and discussions.
+Hello there! I'm passionate about technology, open-source, and learning new things related to AI, Data, or Finance. Here, you'll find a variety of projects and repositories that reflect my interests and expertise. Feel free to explore, contribute, or get in touch with me for collaborations and discussions.
 
 ## 🔧 Technologies and Tools
 
